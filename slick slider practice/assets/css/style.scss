@@ -1,0 +1,17 @@
+.img-wrapper{
+    margin: 0 20px;
+    padding: 0 20px;
+
+    .single{
+        width: 100px;
+        height: 200px;
+        margin: 10px;
+        display: flex;
+        img{
+            height: 100%;
+            width: 100%;
+            object-fit: cover;
+        }
+    }
+}
+
